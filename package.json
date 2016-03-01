@@ -1,0 +1,27 @@
+{
+  "name": "imalive-apigateway",
+  "version": "0.0.0",
+  "description": "An API Gateway for imalive microservices.",
+  "main": "server.js",
+  "repository": "",
+  "author": "Filippo La Torre<latorrefi@gmail.com>",
+  "dependencies": {
+    "amqp": "^0.2.4",
+    "async": "~0.2.8",
+    "crypto": "0.0.3",
+    "express": "~3.2.4",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^5.7.0",
+    "jwt-simple": "^0.4.1",
+    "moment": "^2.11.2",
+    "mongoose": "^4.4.4",
+    "morgan": "^1.7.0",
+    "q": "^1.4.1",
+    "socket.io": "~0.9.14",
+    "sprintf": "^0.1.5",
+    "underscore": "^1.8.3",
+    "url": "^0.11.0",
+    "winston": "^2.1.1",
+    "winston-amqp": "0.0.3"
+  }
+}
